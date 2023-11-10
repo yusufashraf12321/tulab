@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "189679969248",
+    "firebase_url": "https://tulab-77e20-default-rtdb.firebaseio.com",
+    "project_id": "tulab-77e20",
+    "storage_bucket": "tulab-77e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189679969248:android:984994b441f75ee955c185",
+        "android_client_info": {
+          "package_name": "com.example.tulab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnznfUMz6LCOGHb98n1jBoc1iHadtjmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
